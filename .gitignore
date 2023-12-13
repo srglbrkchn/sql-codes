@@ -1,0 +1,17 @@
+# Ignore SQL Server files
+*.mdf
+*.ldf
+
+# Ignore SQLite files
+*.sqlite
+
+# Ignore database connection configuration files
+config.ini
+
+# Ignore files generated during development
+/bin/
+/obj/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
